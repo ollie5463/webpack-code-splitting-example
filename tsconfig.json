@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "module": "commonjs"
+    },
+    "files": ["src/App.ts"],
+    "exclude": ["node_modules"]
+}
